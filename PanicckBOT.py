@@ -76,7 +76,7 @@ mid = cl.getProfile().mid
 kimid = ki.getProfile().mid
 ki2mid = ki2.getProfile().mid
 ki3mid = ki3.getProfile().mid
-Bots = [mid,kimid,ki2mid,ki3mid,ki4mid,ki5mid,ki6mid,ki7mid]
+Bots = [mid,kimid,ki2mid,ki3mid]
 admsa = "uddb6b470ab4b54c5fbc69d7600cc3bc8"
 admin = "uddb6b470ab4b54c5fbc69d7600cc3bc8"
 
